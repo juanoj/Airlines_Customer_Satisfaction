@@ -4,5 +4,5 @@ plotly
 sklearn
 plot_likert
 seaborn
-ipywidget
+ipywidgets
 matplotlib
